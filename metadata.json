@@ -1,5 +1,0 @@
-{
-  "name": "PDF/SVG Banner Generator",
-  "description": "A web application for creating printable banners in PDF (CMYK) and SVG formats with customizable dimensions, colors, and adaptive text. It allows users to generate banners for print or web use with precise control over size and content.",
-  "requestFramePermissions": []
-}

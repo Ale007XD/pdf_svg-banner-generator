@@ -1,9 +1,0 @@
-Please add your font files to this directory (`/public/fonts`). 
-The application is configured to look for the following files here:
-
-- golos-text-latin-700-normal.woff2
-- tenor-sans-latin-400-normal.woff2
-- fira-sans-latin-700-normal.woff2
-- montserrat-latin-700-normal.woff2
-
-Ensure the filenames match exactly for the PDF/SVG generation to work correctly.
